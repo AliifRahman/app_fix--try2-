@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774379363646",
+    "project_id": "nonton-yuk-53bd7",
+    "storage_bucket": "nonton-yuk-53bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774379363646:android:e186879577e9c849a1a06f",
+        "android_client_info": {
+          "package_name": "com.app_try2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774379363646-r5hvktdp0ldse67l2cd64q7fualifcpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDlokANTzRb9fFBAdNLOTS6pADfHhOHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774379363646-r5hvktdp0ldse67l2cd64q7fualifcpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
